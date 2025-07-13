@@ -55,29 +55,18 @@ export default function ServicesSection() {
         },
         {
             id: "video",
-            title: "Video Editing/Motion Design",
+            title: "Video Editing",
             description:
-                "Professional video editing and motion graphics for social media, YouTube, and marketing content. Creating engaging visual stories that captivate your audience.",
+                "Professional video editing for social media, YouTube, and marketing content. Creating engaging visual stories that captivate your audience.",
             icon: FaVideo,
             images: ["/03-section-service/video-edit/vemd-1.png"],
         },
         {
-            id: "sticker",
-            title: "Design Custom Sticker/Emoji",
-            description:
-                "Custom sticker and emoji design for Discord servers, Telegram, and social media platforms. Unique and expressive designs that represent your brand or personality.",
-            icon: FaSmile,
-            images: [
-                "/03-section-service/custom-sticker/cs-1.png",
-                "/03-section-service/custom-sticker/cs-2.png",
-            ],
-        },
-        {
             id: "valorant",
-            title: "Jasa Joki Valorant",
+            title: "Joki Valorant",
             description:
                 "Professional Valorant boosting service to help you reach your desired rank. Safe, fast, and reliable service with experienced players.",
-            icon: FaTrophy,
+            icon: FaGamepad,
             images: [
                 "/03-section-service/joki-valorant/jv-1.png",
                 "/03-section-service/joki-valorant/jv-2.png",
@@ -87,8 +76,34 @@ export default function ServicesSection() {
             ],
         },
         {
+            id: "Discord",
+            title: "Discord Server Develpoment",
+            description:
+                "I offer professional and engaging Discord server creation and development services — from channel setup and role management to bot integration and custom design tailored to your community’s needs.",
+            icon: FaCode,
+            images: [
+                "/03-section-service/server-dev/sd.png",
+                "/03-section-service/server-dev/sd-15.png",
+                "/03-section-service/server-dev/sd-16.png",
+                "/03-section-service/server-dev/sd-1.png",
+                "/03-section-service/server-dev/sd-2.png",
+                "/03-section-service/server-dev/sd-3.png",
+                "/03-section-service/server-dev/sd-4.png",
+                "/03-section-service/server-dev/sd-5.png",
+                "/03-section-service/server-dev/sd-6.png",
+                "/03-section-service/server-dev/sd-7.png",
+                "/03-section-service/server-dev/sd-8.png",
+                "/03-section-service/server-dev/sd-9.png",
+                "/03-section-service/server-dev/sd-10.png",
+                "/03-section-service/server-dev/sd-11.png",
+                "/03-section-service/server-dev/sd-12.png",
+                "/03-section-service/server-dev/sd-13.png",
+                "/03-section-service/server-dev/sd-14.png",
+            ],
+        },
+        {
             id: "genshin",
-            title: "Jasa Joki Genshin",
+            title: "Joki Genshin Impact",
             description:
                 "Genshin Impact account boosting and farming service. Level up your characters, complete quests, and farm materials efficiently.",
             icon: FaGamepad,

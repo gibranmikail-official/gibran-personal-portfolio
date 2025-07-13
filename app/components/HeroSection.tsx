@@ -152,7 +152,7 @@ export default function HeroSection() {
                         >
                             <div className="w-80 h-80 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-white/20 backdrop-blur-sm bg-white/10 hover:border-orange-400/50 transition-all duration-300">
                                 <Image
-                                    src="/01-section-hero/gibran-ava.png"
+                                    src="/01-section-hero/pas-photo-gibran.png"
                                     alt="Gibran Mikail"
                                     width={400}
                                     height={400}

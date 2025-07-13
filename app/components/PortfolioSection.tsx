@@ -109,7 +109,7 @@ export default function PortfolioSection() {
             ],
             technologies: ["Figma", "Visual Studio Code", "React", "Next.js", "Tailwind CSS", "TypeScript"],
             integrations: ["Visual Studio Code", "GitHub", "Netlify"],
-            previewLink: "https://ggenkofficial.com",
+            previewLink: "https://ggenk.com",
         },
         {
             id: "portfolio4",
