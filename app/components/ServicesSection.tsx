@@ -59,7 +59,10 @@ export default function ServicesSection() {
             description:
                 "Professional video editing for social media, YouTube, and marketing content. Creating engaging visual stories that captivate your audience.",
             icon: FaVideo,
-            images: ["/03-section-service/video-edit/vemd-1.png"],
+            images: [
+                "/03-section-service/video-edit/vemd-1.png",
+                "/03-section-service/video-edit/vemd-2.png",
+            ],
         },
         {
             id: "valorant",
@@ -107,7 +110,12 @@ export default function ServicesSection() {
             description:
                 "Genshin Impact account boosting and farming service. Level up your characters, complete quests, and farm materials efficiently.",
             icon: FaGamepad,
-            images: ["/03-section-service/joki-genshin/jgi-1.png"],
+            images: [
+                "/03-section-service/joki-genshin/jgi-1.png",
+                "/03-section-service/joki-genshin/jgi-2.png",
+                "/03-section-service/joki-genshin/jgi-3.png",
+                "/03-section-service/joki-genshin/jgi-4.png",
+            ],
         },
     ];
 
