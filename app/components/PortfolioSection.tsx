@@ -230,6 +230,34 @@ export default function PortfolioSection() {
             integrations: ["YouTube Live", "Google Drive", "Kamera & Audio Eksternal"],
             previewLink: "#",
         },
+        {
+            id: "portfolio8",
+            title: "Best Friends Studio",
+            type: "Graphic Design",
+            description:
+                "Proyek desain ini dibuat untuk mendukung perayaan 4th Anniversary Fun Padel Tournament yang diselenggarakan oleh Best Friends Studio, sebuah brand yang bergerak di bidang eyelash, nails & beauty. Desain ini menggabungkan elemen visual yang elegan, bersih, dan modern untuk menciptakan identitas acara yang profesional namun tetap ramah dan menarik.",
+            thumbnail: "/04-section-portfolio/BFS/BFS.png",
+            images: [
+                "/04-section-portfolio/BFS/BFS.png",
+                "/04-section-portfolio/BFS/BFS-1.png",
+                "/04-section-portfolio/BFS/BFS-2.png",
+                "/04-section-portfolio/BFS/BFS-3.png",
+                "/04-section-portfolio/BFS/BFS-4.png",
+                "/04-section-portfolio/BFS/BFS-5.jpg",
+                "/04-section-portfolio/BFS/BFS-6.jpg",
+            ],
+            features: [
+                "Desain Konsisten & Elegan sesuai identitas brand",
+                "Net Banner untuk event padel",
+                "Voucher Design (Free Treatment, Eyelash Voucher, Talent DNA, Yoga Voucher)",
+                "Twibbon Instagram (post & story)",
+                "Winners Board untuk pemenang turnamen",
+                "Visual minimalis, profesional, dan ramah audiens",
+            ],
+            technologies: ["Adobe Photoshop", "Canva"],
+            integrations: ["Instagram Post & Story", "Event Branding & Promotion"],
+            previewLink: "#",
+        },
     ];
 
     const openPortfolioModal = (portfolio: Portfolio) => {
